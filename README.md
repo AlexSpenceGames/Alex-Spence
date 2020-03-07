@@ -1,2 +1,2 @@
 # Alex-Spence
-Games made by/for the boys.
+Weird games that probably suck.
